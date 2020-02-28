@@ -1,0 +1,76 @@
+
+@import "./colors";
+
+.c-jfpg-show {
+  display: flex;
+  flex: 0 0 auto;
+  width: 394px;
+  flex-direction: column;
+  padding: 12px 0 20px 0;
+  &:nth-of-type(2n-1) {
+    margin-right: 74px;
+  }
+  .jfpg-header {
+    display: flex;
+    flex: 0 0 auto;
+    height: 28px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size:14px;
+    font-weight:600;
+    color:rgba(73,73,73,1);
+    border-bottom: 1px solid #DCDCDC;
+  }
+  .jfpg-info-list {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    padding: 14px 0;
+    .jfpg-info {
+      display: flex;
+      flex-direction: row;
+      margin-bottom: 8px;
+      .jfpg-price {
+        display: flex;
+        width: 50%;
+        height: 30px;
+        flex: 0 0 auto;
+        font-size: 14px;
+        flex-direction: row;
+        align-items: center;
+        .description {
+          color: #818181;
+        }
+        .price {
+          &.jian {
+            color: @jian;
+          }
+          &.feng {
+            color: @feng;
+          }
+          &.ping {
+            color: @ping;
+          }
+          &.gu {
+            color: @gu;
+          }
+        }
+      }
+      .jfpg-time-range {
+        display: flex;
+        flex: 0 0 auto;
+        width: 50%;
+        flex-direction: row;
+        flex-wrap: wrap;
+        color: #333333;
+        .range {
+          display: inline-block;
+          width: 50%;
+          height: 30px;
+          line-height: 30px;
+        }
+      }
+    }
+  }
+}

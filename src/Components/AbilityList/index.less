@@ -1,0 +1,40 @@
+.c-ability-list {
+  .title {
+    font-weight: 500;
+    color: #333333;
+    margin-bottom: 5px;
+    padding: 18px;
+  }
+  .icon {
+    width:17px;
+    height: 17px;
+    color: #52C41A;
+  }
+  .child {
+    display: flex;
+    color: #494949;
+    font-weight:400;
+    align-items: center;
+    margin-bottom: 8px;
+    padding: 8px 18px 7px 18px;
+    &.not-have {
+      color: #CCCCCC;
+    }
+    .preview-right {
+      opacity: 0;
+    }
+    &:hover{
+      .preview-right {
+        opacity: 1;
+        color: #2192D9;
+      }
+    }
+  }
+  .child:hover {
+    background-color: #DCF3FD;
+    &.not-have {
+      background-color: #F5F5F6;
+    }
+  }
+
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="60.2318009%" y1="40.8104839%" x2="36.7129179%" y2="63.1871897%" id="linearGradient-1">
+            <stop stop-color="#D8DFF5" offset="0%"></stop>
+            <stop stop-color="#EAEFFB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="29.0786154%" x2="7.08156449%" y2="72.6656093%" id="linearGradient-2">
+            <stop stop-color="#AAB6D8" offset="0%"></stop>
+            <stop stop-color="#DAE1F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.29212013%" y1="27.9177965%" x2="99.7797392%" y2="71.979491%" id="linearGradient-3">
+            <stop stop-color="#8892AD" offset="0%"></stop>
+            <stop stop-color="#C5CFE3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="60.2318009%" y1="40.8633341%" x2="36.7129179%" y2="63.1113482%" id="linearGradient-4">
+            <stop stop-color="#D8DFF5" offset="0%"></stop>
+            <stop stop-color="#EAEFFB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="44.2445797%" x2="100%" y2="1.69107837%" id="linearGradient-5">
+            <stop stop-color="#C4CFEC" offset="0%"></stop>
+            <stop stop-color="#C5CFE3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="93.8540869%" y1="8.02413115%" x2="12.357024%" y2="95.4754147%" id="linearGradient-6">
+            <stop stop-color="#AAB6D8" offset="0%"></stop>
+            <stop stop-color="#DAE1F1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.29212013%" y1="6.7383484%" x2="99.7797392%" y2="93.0604255%" id="linearGradient-7">
+            <stop stop-color="#8892AD" offset="0%"></stop>
+            <stop stop-color="#C5CFE3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.29212013%" y1="36.7440105%" x2="99.7797392%" y2="63.1943309%" id="linearGradient-8">
+            <stop stop-color="#8892AD" offset="0%"></stop>
+            <stop stop-color="#C5CFE3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="41.7471206%" x2="130.510894%" y2="60.4518402%" id="linearGradient-9">
+            <stop stop-color="#6F7994" offset="0%"></stop>
+            <stop stop-color="#AFBAD1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="34.3919531%" x2="7.08156449%" y2="66.9092964%" id="linearGradient-10">
+            <stop stop-color="#A4B1CE" offset="0%"></stop>
+            <stop stop-color="#C4CDE6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-10.0493334%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#9BAAC1" offset="0%"></stop>
+            <stop stop-color="#6F85A4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="无权限" transform="translate(-794.000000, -362.000000)">
+            <g id="异常_无权限" transform="translate(530.000000, 362.000000)">
+                <g id="编组-2" transform="translate(264.000000, 0.000000)">
+                    <g id="编组">
+                        <g id="Icon/TPS/载体层/具象/文档">
+                            <g id="Group-2" stroke-width="1" transform="translate(1.500000, 27.000000)">
+                                <polygon id="Rectangle-14-Copy-18" fill="url(#linearGradient-1)" points="30.6478941 0.09809703 69.442776 20.0412234 38.9152177 35.699324 0.120335882 15.75"></polygon>
+                                <polygon id="Rectangle-14-Copy-18" fill="url(#linearGradient-2)" points="38.8404701 35.699324 69.442776 20.0412234 69.442776 26.0575629 38.8404701 41.645987"></polygon>
+                                <polygon id="Rectangle-14-Copy-16" fill="url(#linearGradient-3)" points="0.120335882 15.8203659 38.7858162 35.7098258 38.7858162 41.5160161 0.120335882 21.4854819"></polygon>
+                            </g>
+                            <g id="Group-2-Copy" stroke-width="1" transform="translate(6.000000, 12.000000)">
+                                <polygon id="Rectangle-14-Copy-18" fill="url(#linearGradient-4)" points="26.0867519 0.808594703 60.6647988 18.58399 34.6853028 31.8189627 0.107255895 14.0380435"></polygon>
+                                <polygon id="Rectangle-14-Copy-18" fill="url(#linearGradient-5)" points="51.2522502 13.7134276 59.4805595 15.643621 47.9094992 25.0871291"></polygon>
+                                <polygon id="Rectangle-14-Copy-18" fill="url(#linearGradient-6)" points="34.6186799 31.8189627 60.5966861 18.534416 60.5966861 33.0506516 34.6186799 46.2730954"></polygon>
+                                <polygon id="Rectangle-14-Copy-16" fill="url(#linearGradient-7)" points="0.107255895 14.1007609 34.5699666 31.828323 34.5699666 46.1572518 0.107255895 28.3039496"></polygon>
+                            </g>
+                            <polygon id="Rectangle-14-Copy-18" fill="url(#linearGradient-8)" points="36.5086224 18 40.5 20.0904294 21.9913776 29.5852015 18 27.4936276"></polygon>
+                            <polygon id="Rectangle-14-Copy-19" fill="url(#linearGradient-8)" points="44.0086224 22.5 48 24.5904294 29.4913776 34.0852015 25.5 31.9936276"></polygon>
+                            <polygon id="Rectangle-14-Copy-16" fill="url(#linearGradient-9)" points="6 31.0631453 40.4615385 48.8067551 40.4615385 51.3738258 6 34.1063695"></polygon>
+                            <polygon id="Rectangle-14-Copy-20" fill="url(#linearGradient-10)" points="40.4615385 48.8067551 66.548308 35.4665893 66.5337715 38.1034218 40.4615385 51.3738258"></polygon>
+                        </g>
+                        <g id="Icon/TPS/目标层/状态/锁定" transform="translate(33.000000, 0.000000)">
+                            <circle id="底部" fill-opacity="0.7" fill="#F6F6F6" cx="21" cy="24.9375" r="10.5"></circle>
+                            <path d="M20.8152574,36.1544118 C14.3050993,36.1544118 9.02757353,30.876886 9.02757353,24.3667279 C9.02757353,17.8565699 14.3050993,12.5790441 20.8152574,12.5790441 C27.3254154,12.5790441 32.6029412,17.8565699 32.6029412,24.3667279 C32.6029412,30.876886 27.3254154,36.1544118 20.8152574,36.1544118 Z M19.636489,24.8371771 L19.636489,29.8676471 L21.9940257,29.8676471 L21.9940257,24.8371771 C22.6986951,24.4295479 23.1727941,23.6676582 23.1727941,22.7950368 C23.1727941,21.4930052 22.117289,20.4375 20.8152574,20.4375 C19.5132258,20.4375 18.4577206,21.4930052 18.4577206,22.7950368 C18.4577206,23.6676582 18.9318196,24.4295479 19.636489,24.8371771 Z M23.2413515,11.227103 L23.1727941,11.1928244 L23.1727941,8.64981618 C23.1727941,7.34778457 22.117289,6.29227941 20.8152574,6.29227941 C19.5132258,6.29227941 18.4577206,7.34778457 18.4577206,8.64981618 L18.4577206,11.1928244 L18.3891632,11.227103 C17.313651,11.424414 16.2831828,11.7505246 15.3143382,12.188855 L15.3143382,8.64981618 C15.3143382,5.61174244 17.7771836,3.14889706 20.8152574,3.14889706 C23.8533311,3.14889706 26.3161765,5.61174244 26.3161765,8.64981618 L26.3161765,12.188855 C25.3473319,11.7505246 24.3168637,11.424414 23.2413515,11.227103 Z" id="Combined-Shape" fill="url(#linearGradient-11)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

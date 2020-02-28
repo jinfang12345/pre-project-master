@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="368px" viewBox="0 0 402 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 31</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="101.960534%" x2="50%" y2="28.0583479%" id="linearGradient-1">
+            <stop stop-color="#00EAFF" stop-opacity="0.585286458" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.35009058" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="14.2869781%" x2="50%" y2="102.305725%" id="linearGradient-2">
+            <stop stop-color="#FEFEFE" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#00EAFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1.70530257e-13,144 L68.1183655,-7.2475359e-13 L152.594397,-7.2475359e-13 L223.2,144 L111.6,205.6 L1.70530257e-13,144 Z" id="path-3"></path>
+        <pattern id="pattern-4" width="4.8" height="4.8" x="-4.8" y="-4.8" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-5" transform="scale(0.1,0.1)"></use>
+        </pattern>
+        <image id="image-5" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAEGWlDQ1BrQ0dDb2xvclNwYWNlR2VuZXJpY1JHQgAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VQNcC+8AAAFFSURBVGgF7djbDYMwDAXQBjEMYqyqY1WMxTppLiJIQIA8ariWkp8IPuweO60am67r7MstY8wwjuPH7dMz3uUua63p+/7r9rePIRW/9QmQzCV9ub0YgSIgzhxvQkjFb1EZBAdEKolkfJTqtnb7bv/zOJm58moRE0AzYgFoRawAGhE7gDZEEKAJcQjQgjgFaEBcAtgRUQBmRDSAFZEEYEQkA9gQWQAmRDaABVEEYEAUAx5H4EaGOyw+SMl66mbXzNOD4k6gCPNUY/CFwF1YOn5zRxJJRINqaUbUuZA/79sd3wm3xIdbdS60rXzo2XVCbO60/HxKJgFKKv4CkEziuyKBWAE0InYAbYggQBPiEKAFcQrQgLgEsCOiAMyIaAArIgnAiEgGsCGyAEyIbAALogjAgCgGPI7AX9w6F3JtqHMhnMWLFSrSD9jOnakVHpZYAAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预览" transform="translate(-605.000000, -1110.000000)">
+            <g id="编组-32" transform="translate(606.000000, 1111.000000)">
+                <g id="编组-31">
+                    <g id="编组-30">
+                        <rect id="蒙版" stroke="#DCDCDC" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="367" rx="2"></rect>
+                        <g id="编组-9" transform="translate(84.000000, 40.000000)">
+                            <path d="M1.70530257e-13,156 L68.1183655,12 L152.594397,12 L223.2,156 L111.6,217.6 L1.70530257e-13,156 Z" id="Rectangle-810-Copy-4" fill="url(#linearGradient-1)" opacity="0.291078786"></path>
+                            <path d="M1.70530257e-13,149.6 L68.1183655,5.6 L152.594397,5.6 L223.2,149.6 L111.6,211.2 L1.70530257e-13,149.6 Z" id="Rectangle-810-Copy-3" fill="url(#linearGradient-1)" opacity="0.15817328"></path>
+                            <g id="Rectangle-810-Copy-2" opacity="0.42703683">
+                                <use fill="url(#pattern-4)" xlink:href="#path-3"></use>
+                                <use fill="url(#linearGradient-2)" style="mix-blend-mode: multiply;" xlink:href="#path-3"></use>
+                                <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="activity" transform="translate(103.000000, 109.000000)" fill="#CCCCCC" font-family="PingFangSC-Regular, PingFang SC" font-size="45" font-weight="normal">
+                        <g id="main">
+                            <g id="content" transform="translate(0.000000, 0.250000)">
+                                <text id="0.5833">
+                                    <tspan x="18.06" y="39">0.5833</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="元/度" font-family="PingFang-SC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#666666">
+                        <tspan x="179" y="179">元/度</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

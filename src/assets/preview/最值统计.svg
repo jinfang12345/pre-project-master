@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="368px" viewBox="0 0 402 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 17</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预览" transform="translate(-1589.000000, -112.000000)">
+            <g id="编组-18" transform="translate(1590.000000, 113.000000)">
+                <g id="编组-17">
+                    <rect id="蒙版" stroke="#DCDCDC" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="367" rx="2"></rect>
+                    <g id="编组-7" transform="translate(28.000000, 43.000000)">
+                        <g id="编组-6">
+                            <path d="M334.970602,141.5 L31.5747464,141.618113" id="Line-Copy-11" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,111.5 L31.5747464,111.618113" id="Line-Copy-11复制" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,81.5 L31.5747464,81.6181129" id="Line-Copy-11复制-2" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,48.5 L31.5747464,48.6181129" id="Line-Copy-11复制-3" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,11.5 L31.5747464,11.6181129" id="Line-Copy-11复制-4" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <text id="01:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="29.119616" y="173">01:00</tspan>
+                            </text>
+                            <text id="0" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="9.4451232" y="147">0</tspan>
+                            </text>
+                            <text id="10" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="114">10</tspan>
+                            </text>
+                            <text id="20" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="81">20</tspan>
+                            </text>
+                            <text id="30" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="48">30</tspan>
+                            </text>
+                            <text id="40" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="15">40</tspan>
+                            </text>
+                            <text id="02:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="94.869616" y="173">02:00</tspan>
+                            </text>
+                            <text id="03:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="160.619616" y="173">03:00</tspan>
+                            </text>
+                            <text id="04:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="226.369616" y="173">04:00</tspan>
+                            </text>
+                            <text id="05:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="292.119616" y="173">05:00</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <g id="编组-8" transform="translate(250.000000, 46.000000)">
+                        <path d="M2,1 L28,1 C29.1045695,1 30,1.8954305 30,3 L30,13 C30,14.1045695 29.1045695,15 28,15 L17.8466797,15 L15,18 L11.9316406,15 L2,15 C0.8954305,15 -1.27433163e-14,14.1045695 -1.28785871e-14,13 L-1.24344979e-14,3 C-1.25697686e-14,1.8954305 0.8954305,1 2,1 Z" id="矩形" fill="#F67077"></path>
+                        <text id="39.1" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="4" y="13">39.1</tspan>
+                        </text>
+                    </g>
+                    <g id="编组-8复制" transform="translate(121.000000, 152.000000)">
+                        <path d="M2,1 L28,1 C29.1045695,1 30,1.8954305 30,3 L30,13 C30,14.1045695 29.1045695,15 28,15 L17.8466797,15 L15,18 L11.9316406,15 L2,15 C0.8954305,15 -3.0881846e-16,14.1045695 -4.4408921e-16,13 L0,3 C-1.3527075e-16,1.8954305 0.8954305,1 2,1 Z" id="矩形" fill="#75D3FF"></path>
+                        <text id="8.3" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="6" y="13">8.3</tspan>
+                        </text>
+                    </g>
+                    <path d="M59.5747464,109 L87.0410472,148.350377 C105.691201,175.07005 142.470714,181.611688 169.190387,162.961534 C175.594243,158.491686 181.046989,152.794962 185.232429,146.201707 L217.335747,95.6298753 C234.799224,68.1199463 271.257372,59.9756875 298.767301,77.4391642 C303.539023,80.4682831 307.850731,84.1673378 311.570248,88.4229315 L349.554687,131.881887" id="路径-15" stroke="#4A90E2" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

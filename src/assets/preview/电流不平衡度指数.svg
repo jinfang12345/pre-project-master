@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="368px" viewBox="0 0 402 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 45</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="400" height="366" rx="2"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预览" transform="translate(-96.000000, -2098.000000)">
+            <g id="编组-46" transform="translate(97.000000, 2099.000000)">
+                <g id="编组-45">
+                    <g id="编组-3">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <rect stroke="#DCDCDC" x="-0.5" y="-0.5" width="401" height="367" rx="2"></rect>
+                    </g>
+                    <g id="编组-7" transform="translate(28.000000, 39.000000)">
+                        <g id="编组-6">
+                            <path d="M334.970602,141.5 L31.5747464,141.618113" id="Line-Copy-11" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,111.5 L31.5747464,111.618113" id="Line-Copy-11复制" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,81.5 L31.5747464,81.6181129" id="Line-Copy-11复制-2" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,48.5 L31.5747464,48.6181129" id="Line-Copy-11复制-3" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,11.5 L31.5747464,11.6181129" id="Line-Copy-11复制-4" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <text id="01:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="29.119616" y="173">01:00</tspan>
+                            </text>
+                            <text id="0" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="9.4451232" y="147">0</tspan>
+                            </text>
+                            <text id="10" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="114">10</tspan>
+                            </text>
+                            <text id="20" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="81">20</tspan>
+                            </text>
+                            <text id="30" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="48">30</tspan>
+                            </text>
+                            <text id="40" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="15">40</tspan>
+                            </text>
+                            <text id="02:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="94.869616" y="173">02:00</tspan>
+                            </text>
+                            <text id="03:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="160.619616" y="173">03:00</tspan>
+                            </text>
+                            <text id="04:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="226.369616" y="173">04:00</tspan>
+                            </text>
+                            <text id="05:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="292.119616" y="173">05:00</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <polygon id="Graph-segment" fill-opacity="0.374836101" fill="#00FFF9" points="59.5747464 116 77.0778532 114.222835 94.8111689 107.899141 103.893701 101.275162 111.309787 105.034971 120.300178 98.6226508 129.049684 103.404261 138.087462 105.034971 147.239759 98.6226508 155.991898 103.404261 164.873035 101.275162 174.491305 105.034971 182.031124 107.899141 191.796821 103.404261 199.672298 110.702836 209.114183 103.404261 217.684671 98.6226508 227.251605 96.5248316 235.781288 92.2145013 244.48604 89 252.096939 92.2145013 260.93727 94.9514672 269.480116 90.9289093 278.983868 103.404261 287.764965 98.6226508 296.721132 94.9514672 305.481169 101.275162 314.701914 96.5248316 323.615959 93.6794297 331.737586 90.9289093 340.884617 94.9514672 350.874087 92.2145013 358.695595 98.6226508 360 180 59 180"></polygon>
+                    <polyline id="Graph-segment" stroke="#00FFF9" stroke-width="2" points="59 116 76.4922532 113.014008 94.281612 106.993382 103.392848 100.686863 110.832371 104.26648 119.851174 98.1614765 128.628332 102.713923 137.694672 104.26648 146.875894 98.1614765 155.655692 102.713923 164.564897 100.686863 174.213564 104.26648 181.77721 106.993382 191.57377 102.713923 199.474136 109.662708 208.945861 102.713923 217.543435 98.1614765 227.140604 96.1641972 235.697243 92.0604434 244.429505 89 252.064456 92.0604434 260.932727 94.6662377 269.502571 90.8364646 279.036357 102.713923 287.845206 98.1614765 296.829677 94.6662377 305.617398 100.686863 314.867284 96.1641972 323.8095 93.4551638 331.956794 90.8364646 341.132734 94.6662377 351.153773 92.0604434 359 98.1614765"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

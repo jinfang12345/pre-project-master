@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="368px" viewBox="0 0 402 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 43</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M96.8821276,159.89621 C91.5919345,160.978755 86.1140103,161.547569 80.504,161.547569 C66.6645608,161.547569 53.6331982,158.088249 42.2273775,151.987216 C30.9742519,145.967862 21.3034356,137.377053 14,127" id="path-1"></path>
+        <filter x="-51.3%" y="-123.0%" width="198.3%" height="327.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="16.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="16.5" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预览" transform="translate(-1589.000000, -1609.000000)">
+            <g id="编组-44" transform="translate(1590.000000, 1610.000000)">
+                <g id="编组-43">
+                    <rect id="蒙版" stroke="#DCDCDC" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="367" rx="2"></rect>
+                    <g id="Group-10-Copy-2" transform="translate(119.000000, 56.000000)">
+                        <g id="Group">
+                            <path d="M14.7644276,127.495545 C5.46218621,114.279055 0,98.1645379 0,80.7746862 C0,45.2508034 22.7930207,15.0502759 54.5516034,4" id="Stroke-1" stroke="#909AFF" stroke-width="24"></path>
+                            <path d="M148.751376,124 C137.102497,141.869297 118.614362,154.872762 97,159.295683" id="Stroke-5" stroke="#7DC7FF" stroke-width="24"></path>
+                            <path d="M126,13 C147.617734,27.6042379 161.83021,52.3369586 161.83021,80.3886966 C161.83021,96.7398448 157.001476,111.962921 148.691848,124.710083" id="Stroke-7" stroke="#7DC7FF" stroke-width="24"></path>
+                            <path d="M53,4.49374138 C61.3675207,1.58222414 70.3572517,3.57047725e-13 79.7162621,3.57047725e-13 C96.5479793,3.57047725e-13 112.183614,5.11707586 125.154479,13.879731" id="Stroke-9" stroke="#909AFF" stroke-width="24"></path>
+                            <g id="Stroke-3">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use stroke="#00F3FF" stroke-width="33" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                        <text id="20%" font-family="PingFang-SC-Regular, PingFang SC" font-size="24" font-weight="normal" letter-spacing="0.8824307" fill="#CCCCCC">
+                            <tspan x="56" y="92">20%</tspan>
+                        </text>
+                    </g>
+                    <text id="合格" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" letter-spacing="0.5882871" fill="#666666">
+                        <tspan x="302" y="149">合格</tspan>
+                    </text>
+                    <text id="过压" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" letter-spacing="0.5882871" fill="#666666">
+                        <tspan x="73" y="101">过压</tspan>
+                    </text>
+                    <text id="欠压" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" letter-spacing="0.5882871" fill="#666666">
+                        <tspan x="137" y="251">欠压</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

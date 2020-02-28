@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="368px" viewBox="0 0 402 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 28</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预览" transform="translate(-96.000000, -1110.000000)">
+            <g id="编组-29" transform="translate(97.000000, 1097.000000)">
+                <g id="编组-28">
+                    <g id="编组-27">
+                        <rect id="蒙版" stroke="#DCDCDC" fill="#FFFFFF" x="-0.5" y="13.5" width="401" height="367" rx="2"></rect>
+                        <g id="activity" transform="translate(52.000000, 0.000000)">
+                            <g id="main">
+                                <path d="M142.746953,41.6890425 C198.417255,41.6890425 243.546953,86.8187397 243.546953,142.489042 C243.546953,198.159345 198.417255,243.289042 142.746953,243.289042 C87.0766498,243.289042 41.9469526,198.159345 41.9469526,142.489042 C41.9469526,86.8187397 87.0766498,41.6890425 142.746953,41.6890425 Z" id="Oval-300-Copy-5" stroke="" stroke-width="16" opacity="0.633091518" stroke-linecap="round" stroke-dasharray="360,400" transform="translate(142.746953, 142.489042) scale(1, -1) rotate(141.000000) translate(-142.746953, -142.489042) "></path>
+                                <path d="M142.87462,60.4629816 C187.720142,60.4629816 224.07462,96.996546 224.07462,142.062982 C224.07462,187.129417 187.720142,223.662982 142.87462,223.662982 C98.0290987,223.662982 61.6746204,187.129417 61.6746204,142.062982 C61.6746204,96.996546 98.0290987,60.4629816 142.87462,60.4629816 Z" id="Oval-300-Copy-5" stroke="" stroke-width="14.4" opacity="0.633091518" stroke-linecap="round" stroke-dasharray="280,400" transform="translate(142.874620, 142.062982) scale(1, -1) rotate(144.000000) translate(-142.874620, -142.062982) "></path>
+                                <text id="0.34" font-family="PingFang-SC-Regular, PingFang SC" font-size="49.6" font-weight="normal" fill="#CCCCCC">
+                                    <tspan x="99.4630807" y="152.903112">0.34</tspan>
+                                </text>
+                                <text id="峰谷比指数" font-family="PingFang-SC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#666666">
+                                    <tspan x="110.446109" y="172.81405">峰谷比指数</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="峰电量" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#CCCCCC">
+                        <tspan x="184" y="225">峰电量</tspan>
+                    </text>
+                    <text id="谷电量" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#CCCCCC">
+                        <tspan x="184" y="247">谷电量</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

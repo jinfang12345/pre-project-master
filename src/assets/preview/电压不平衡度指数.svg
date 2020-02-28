@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="368px" viewBox="0 0 402 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 41</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预览" transform="translate(-1080.000000, -1609.000000)">
+            <g id="编组-42" transform="translate(1081.000000, 1610.000000)">
+                <g id="编组-41">
+                    <rect id="蒙版" stroke="#DCDCDC" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="367" rx="2"></rect>
+                    <g id="编组-7" transform="translate(24.000000, 49.000000)">
+                        <g id="编组-6">
+                            <path d="M334.970602,141.5 L31.5747464,141.618113" id="Line-Copy-11" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,111.5 L31.5747464,111.618113" id="Line-Copy-11复制" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,81.5 L31.5747464,81.6181129" id="Line-Copy-11复制-2" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,48.5 L31.5747464,48.6181129" id="Line-Copy-11复制-3" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <path d="M334.970602,11.5 L31.5747464,11.6181129" id="Line-Copy-11复制-4" stroke="#CCCCCC" opacity="0.5" stroke-linecap="square"></path>
+                            <text id="01:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="29.119616" y="173">01:00</tspan>
+                            </text>
+                            <text id="0" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="9.4451232" y="147">0</tspan>
+                            </text>
+                            <text id="10" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="114">10</tspan>
+                            </text>
+                            <text id="20" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="81">20</tspan>
+                            </text>
+                            <text id="30" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="48">30</tspan>
+                            </text>
+                            <text id="40" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="0.3902464" y="15">40</tspan>
+                            </text>
+                            <text id="02:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="94.869616" y="173">02:00</tspan>
+                            </text>
+                            <text id="03:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="160.619616" y="173">03:00</tspan>
+                            </text>
+                            <text id="04:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="226.369616" y="173">04:00</tspan>
+                            </text>
+                            <text id="05:00" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="0.7097536" fill="#CCCCCC">
+                                <tspan x="292.119616" y="173">05:00</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <polygon id="Graph-segment" fill-opacity="0.480168269" fill="#40B7FF" points="55.5747464 126 73.0778532 124.222835 90.8111689 117.899141 99.8937014 111.275162 107.309787 115.034971 116.300178 108.622651 125.049684 113.404261 134.087462 115.034971 143.239759 108.622651 151.991898 113.404261 160.873035 111.275162 170.491305 115.034971 178.031124 117.899141 187.796821 113.404261 195.672298 120.702836 205.114183 113.404261 213.684671 108.622651 223.251605 106.524832 231.781288 102.214501 240.48604 99 248.096939 102.214501 256.93727 104.951467 265.480116 100.928909 274.983868 113.404261 283.764965 108.622651 292.721132 104.951467 301.481169 111.275162 310.701914 106.524832 319.615959 103.67943 327.737586 100.928909 336.884617 104.951467 346.874087 102.214501 354.695595 108.622651 356 190 55 190"></polygon>
+                    <polyline id="Graph-segment" stroke="#4A90E2" stroke-width="2" points="55 126 72.4922532 123.014008 90.281612 116.993382 99.3928483 110.686863 106.832371 114.26648 115.851174 108.161477 124.628332 112.713923 133.694672 114.26648 142.875894 108.161477 151.655692 112.713923 160.564897 110.686863 170.213564 114.26648 177.77721 116.993382 187.57377 112.713923 195.474136 119.662708 204.945861 112.713923 213.543435 108.161477 223.140604 106.164197 231.697243 102.060443 240.429505 99 248.064456 102.060443 256.932727 104.666238 265.502571 100.836465 275.036357 112.713923 283.845206 108.161477 292.829677 104.666238 301.617398 110.686863 310.867284 106.164197 319.8095 103.455164 327.956794 100.836465 337.132734 104.666238 347.153773 102.060443 355 108.161477"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="402px" height="368px" viewBox="0 0 402 368" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>编组 51</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="20.4626234%" x2="52.6869401%" y2="100.073969%" id="linearGradient-1">
+            <stop stop-color="#D51818" offset="0%"></stop>
+            <stop stop-color="#E3997F" offset="69.2972524%"></stop>
+            <stop stop-color="#1FA8E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="51.016406%" y2="134.763738%" id="linearGradient-2">
+            <stop stop-color="#D51818" offset="0%"></stop>
+            <stop stop-color="#E3997F" offset="69.2972524%"></stop>
+            <stop stop-color="#1FA8E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50.000546%" y2="134.763738%" id="linearGradient-3">
+            <stop stop-color="#D51818" offset="0%"></stop>
+            <stop stop-color="#E3997F" offset="69.2972524%"></stop>
+            <stop stop-color="#1FA8E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="51.2940421%" y2="134.763738%" id="linearGradient-4">
+            <stop stop-color="#D51818" offset="0%"></stop>
+            <stop stop-color="#E3997F" offset="69.2972524%"></stop>
+            <stop stop-color="#1FA8E2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="20.3636548%" x2="52.6869401%" y2="100.241748%" id="linearGradient-5">
+            <stop stop-color="#D51818" offset="0%"></stop>
+            <stop stop-color="#E3997F" offset="69.2972524%"></stop>
+            <stop stop-color="#1FA8E2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="预览" transform="translate(-1589.000000, -2098.000000)">
+            <g id="编组-52" transform="translate(1590.000000, 2099.000000)">
+                <g id="编组-51">
+                    <rect id="蒙版" stroke="#DCDCDC" fill="#FFFFFF" x="-0.5" y="-0.5" width="401" height="367" rx="2"></rect>
+                    <g id="编组-12" transform="translate(58.000000, 68.000000)">
+                        <g id="编组-10">
+                            <path d="M122.289185,25.6410256 L14.3883495,108.573718" id="路径-4" stroke="url(#linearGradient-1)" stroke-width="1.6"></path>
+                            <path d="M120.690479,25.6410256 L68.9441748,109.775641" id="路径-10" stroke="url(#linearGradient-2)" stroke-width="1.6"></path>
+                            <path d="M122.289185,25.6410256 L123.5,110.576923" id="路径-11" stroke="url(#linearGradient-3)" stroke-width="1.6"></path>
+                            <path d="M120.690479,25.6410256 L178.243877,108.573718" id="路径-12" stroke="url(#linearGradient-4)" stroke-width="1.6"></path>
+                            <path d="M122.289185,25.6410256 L232.61165,110.576923" id="路径-13" stroke="url(#linearGradient-5)" stroke-width="1.6"></path>
+                            <ellipse id="椭圆形" fill="#D8D8D8" cx="122.300971" cy="25.6410256" rx="25.579288" ry="25.6410256"></ellipse>
+                            <ellipse id="椭圆形复制" fill="#D8D8D8" cx="123.5" cy="110.576923" rx="14.3883495" ry="14.4230769"></ellipse>
+                            <ellipse id="椭圆形复制-5" fill="#D8D8D8" cx="178.055825" cy="109.775641" rx="14.3883495" ry="14.4230769"></ellipse>
+                            <ellipse id="椭圆形复制-4" fill="#D8D8D8" cx="68.9441748" cy="109.775641" rx="14.3883495" ry="14.4230769"></ellipse>
+                            <ellipse id="椭圆形复制-3" fill="#D8D8D8" cx="232.61165" cy="110.576923" rx="14.3883495" ry="14.4230769"></ellipse>
+                            <ellipse id="椭圆形复制-2" fill="#D8D8D8" cx="14.3883495" cy="109.775641" rx="14.3883495" ry="14.4230769"></ellipse>
+                        </g>
+                        <g id="电价" transform="translate(114.307443, 8.814103)" fill="#FFA608" fill-rule="nonzero">
+                            <polygon id="路径" points="5.41100324 0.819916518 14.8802589 0 9.1987055 15.3051083 17.5857605 15.3051083 1.35275081 35.2564103 7.03430421 20.2246074 0 20.7712184"></polygon>
+                        </g>
+                        <g id="电价复制" transform="translate(10.391586, 100.961538)" fill="#FFA608" fill-rule="nonzero">
+                            <polygon id="路径" points="2.70550162 0.409958259 7.44012945 0 4.59935275 7.65255416 8.79288026 7.65255416 0.676375405 17.6282051 3.5171521 10.1123037 0 10.3856092"></polygon>
+                        </g>
+                        <g id="电价复制-2" transform="translate(64.747573, 100.961538)" fill="#FFA608" fill-rule="nonzero">
+                            <polygon id="路径" points="2.70550162 0.409958259 7.44012945 0 4.59935275 7.65255416 8.79288026 7.65255416 0.676375405 17.6282051 3.5171521 10.1123037 0 10.3856092"></polygon>
+                        </g>
+                        <g id="电价复制-3" transform="translate(119.103560, 100.961538)" fill="#FFA608" fill-rule="nonzero">
+                            <polygon id="路径" points="2.70550162 0.409958259 7.44012945 0 4.59935275 7.65255416 8.79288026 7.65255416 0.676375405 17.6282051 3.5171521 10.1123037 0 10.3856092"></polygon>
+                        </g>
+                        <g id="电价复制-4" transform="translate(173.459547, 100.961538)" fill="#FFA608" fill-rule="nonzero">
+                            <polygon id="路径" points="2.70550162 0.409958259 7.44012945 0 4.59935275 7.65255416 8.79288026 7.65255416 0.676375405 17.6282051 3.5171521 10.1123037 0 10.3856092"></polygon>
+                        </g>
+                        <g id="电价复制-5" transform="translate(227.815534, 100.961538)" fill="#FFA608" fill-rule="nonzero">
+                            <polygon id="路径" points="2.70550162 0.409958259 7.44012945 0 4.59935275 7.65255416 8.79288026 7.65255416 0.676375405 17.6282051 3.5171521 10.1123037 0 10.3856092"></polygon>
+                        </g>
+                    </g>
+                    <path d="M227.83021,93.6410256 L333,93.6410256 L333,178.576923 L318,178.576923" id="路径-16" stroke="#979797" stroke-dasharray="3"></path>
+                    <text id="电-能-损-耗" font-family="PingFang-SC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                        <tspan x="349" y="111">电</tspan>
+                        <tspan x="349" y="131">能</tspan>
+                        <tspan x="349" y="151">损</tspan>
+                        <tspan x="349" y="171">耗</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

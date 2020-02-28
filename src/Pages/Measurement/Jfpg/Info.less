@@ -1,0 +1,121 @@
+@import "./colors";
+
+.c-jfpg-detail {
+  display: flex;
+  flex-direction: column;
+  .tips {
+    display: inline-block;
+    width: 4px;
+    height: 15px;
+    position: relative;
+    top: 2px;
+    left: 4px;;
+    &.jian {
+      background-color: @jian;
+    }
+    &.feng {
+      background-color: @feng;
+    }
+    &.ping {
+      background-color: @ping;
+    }
+    &.gu {
+      background-color: @gu;
+    }
+  }
+  .day-time-ranges {
+    display: flex;
+    flex-direction: row;
+    margin-top: 28px;
+    .range {
+      display: flex;
+      flex: 0 0 auto;
+      width: 18px;
+      height: 28px;
+      .left {
+        width: 14px;
+        height: 28px;
+        background-color: #D8D8D8;
+        &.selected {
+          &.jian {
+            background-color: @jian;
+          }
+          &.feng {
+            background-color: @feng;
+          }
+          &.ping {
+            background-color: @ping;
+          }
+          &.gu {
+            background-color: @gu;
+          }
+        }
+        &.hover {
+          &.jian {
+            background-color: rgba(255, 109, 44, .5);
+          }
+          &.feng {
+            background-color: rgba(206,144,209,.5);
+          }
+          &.ping {
+            background-color: rgba(13,182,217, .5);
+          }
+          &.gu {
+            background-color: rgba(99,188,127, .5);
+          }
+        }
+      }
+      .right {
+        width: 4px;
+        height: 28px;
+      }
+    }
+  }
+  .range-tip {
+    margin-top: 32px;
+    font-size:14px;
+    font-weight:500;
+    color:rgba(153,153,153,1);
+  }
+  .price-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 32px;
+    .inline-form .ant-form-item {
+      margin-bottom: 20px;
+      .ant-form-item-label {
+        padding-top: 6px;
+      }
+      .ant-form-explain {
+        padding-left: 8px;
+      }
+    }
+    .price-row {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      .range-label {
+        display: flex;
+        flex: 0 0 auto;
+        width: 50px;
+        height: 30px;
+        line-height: 30px;
+        margin-left: 34px;
+      }
+      .jfpg-time-range {
+        display: flex;
+        flex: 0 0 auto;
+        width: 400px;
+        flex-direction: row;
+        flex-wrap: wrap;
+        color: #333333;
+        .range {
+          display: inline-block;
+          width: 100px;
+          height: 30px;
+          line-height: 30px;
+        }
+      }
+    }
+  }
+}

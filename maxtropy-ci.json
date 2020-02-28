@@ -1,0 +1,8 @@
+{
+  "staticDir": "build/static",
+  "htmlFile": [
+    "build/index.html",
+    "build/favicon.ico"
+  ],
+  "staticPattern": "(?<!\\.br)$"
+}
